@@ -1,6 +1,6 @@
 ## Registro de Microservicios
 
-#### Pasos a seguir:
+#### Pasos a seguir en consola:
 
 ```
 consul agent -dev -bind=192.168.192.1 -data-dir= .
